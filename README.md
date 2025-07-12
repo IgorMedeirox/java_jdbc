@@ -87,8 +87,3 @@ Feel free to explore, fork, or suggest improvements. Let's build stronger system
 ## 📄 License
 
 MIT License — feel free to clone, learn, improve, and share 💚
-
-```
-
-Ready to jazz it up with some badges, install instructions, or a visual data flow diagram? I’d love to help tailor this even more to your style 😄📘
-```
