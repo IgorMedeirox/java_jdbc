@@ -1,4 +1,3 @@
-```markdown
 # 🛠️ JDBC Database Manager
 
 Welcome to a Java-powered backend adventure! 🌍  
